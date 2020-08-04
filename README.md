@@ -1,7 +1,7 @@
 # NextLevelWeek #02 WIP
 
 <div align="center">
-  <img alt="Proffy" src="https://github.com/lmaoclost/NextLevelWeek-2/blob/master/.github/logo.png">
+  <img alt="Proffy" src="https://github.com/lmaoclost/NextLevelWeek-2/blob/master/.github/logo.png" width="280"/>
 </div>
 
 <br />
@@ -22,12 +22,9 @@ Project for a [Course](https://nextlevelweek.com/episodios/omnistack/2/edicao/2)
 ## Some Images
 
 ### WEB
-<div align="center">
-  <img alt="Web" src="https://github.com/lmaoclost/NextLevelWeek-2/blob/master/.github/web-landing.png" width="400px">>
-</div>
-
-<div align="center">
-  <img alt="Web" src="https://github.com/lmaoclost/NextLevelWeek-2/blob/master/.github/web-list.png" width="400px">>
+<div style="display: flex; flex-direction: 'row'; align-items: 'center';">
+  <img alt="Web" src="https://github.com/lmaoclost/NextLevelWeek-2/blob/master/.github/web-landing.png" width="400px">
+  <img alt="Web" src="https://github.com/lmaoclost/NextLevelWeek-2/blob/master/.github/web-list.png" width="400px">
 </div>
 
 ## Getting Started
