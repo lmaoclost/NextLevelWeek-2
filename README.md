@@ -35,14 +35,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 Node, yarn and a text editor. I'm using VSCode.
 
-## Day 1: FrontEnd
+## Day 1, 3: FrontEnd
 Open a terminal.
 ```
 $ cd /web
 $ yarn
 $ yarn start
 ```
-Go to http://localhost:3000 and the project is up and running!
+Go to http://localhost:3000 and the project is up and running! To use the backend, make sure that it is running.
 
 
 ## Day 2: BackEnd
@@ -57,12 +57,11 @@ The Backend will be running in the http://localhost:3333. To test the routes, i'
 
 ## Built With
 
-* [JavaScript](https://devdocs.io/javascript/) - Main Language
+* [Typescript](https://devdocs.io/typescript/) - Main Language
 * [Node.js](https://nodejs.org/en/) - Backend framework
-* [React.js](https://reactjs.org/) - Js framework for WEB
+* [React.js](https://reactjs.org/) - JS framework for WEB
+* [Knex](http://knexjs.org/) - JS SQL query builder
 * [SQLite](https://www.sqlite.org/index.html) - Database
-* [Expo](https://expo.io/) - Used to improve the app development
-
 
 ## Authors
 
