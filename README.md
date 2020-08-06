@@ -33,10 +33,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Node, npm and a text editor. I'm using VSCode.
+Node, yarn and a text editor. I'm using VSCode.
 
 ## Day 1: FrontEnd
-Go to another terminal.
+Open a terminal.
 ```
 $ cd /web
 $ yarn
@@ -45,10 +45,24 @@ $ yarn start
 Go to http://localhost:3000 and the project is up and running!
 
 
+## Day 2: BackEnd
+Go to another terminal.
+```
+$ cd /server
+$ yarn
+$ yarn knex:migrate
+$ yarn start
+```
+The Backend will be running in the http://localhost:3333. To test the routes, i'm leaving this [Insomnia file](Insomnia_2020-08-06.json).
+
 ## Built With
 
 * [JavaScript](https://devdocs.io/javascript/) - Main Language
+* [Node.js](https://nodejs.org/en/) - Backend framework
 * [React.js](https://reactjs.org/) - Js framework for WEB
+* [SQLite](https://www.sqlite.org/index.html) - Database
+* [Expo](https://expo.io/) - Used to improve the app development
+
 
 ## Authors
 
