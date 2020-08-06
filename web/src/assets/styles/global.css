@@ -27,7 +27,9 @@
   padding: 0;
 }
 
-html, body, #root {
+hmtl,
+body,
+#root {
   height: 100vh;
 }
 
@@ -56,6 +58,6 @@ textarea {
 
 @media (min-width: 700px) {
   :root {
-    font-size: 62.5%
+    font-size: 62.5%;
   }
 }
