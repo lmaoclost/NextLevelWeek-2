@@ -55,13 +55,24 @@ $ yarn start
 ```
 The Backend will be running in the http://localhost:3333. To test the routes, i'm leaving this [Insomnia file](Insomnia_2020-08-06.json).
 
+## Day 4: Mobile
+I'm using Expo, so make sure that you have it. Go to another terminal.
+```
+$ cd /mobile
+$ yarn
+$ yarn start
+```
+Go to the expo page and connect.
+
 ## Built With
 
 * [Typescript](https://devdocs.io/typescript/) - Main Language
 * [Node.js](https://nodejs.org/en/) - Backend framework
 * [React.js](https://reactjs.org/) - JS framework for WEB
+* [React Native](https://facebook.github.io/react-native/) - JS framework for APPs
 * [Knex](http://knexjs.org/) - JS SQL query builder
 * [SQLite](https://www.sqlite.org/index.html) - Database
+* [Expo](https://expo.io/) - Used to improve the app development
 
 ## Authors
 
