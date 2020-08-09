@@ -29,8 +29,8 @@ Project for a [Course](https://nextlevelweek.com/episodios/omnistack/2/edicao/2)
 
 ### Mobile
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-  <img alt="Web" src="https://github.com/lmaoclost/NextLevelWeek-2/blob/master/.github/Home-mobile.png" width="400px">
-  <img alt="Web" src="https://github.com/lmaoclost/NextLevelWeek-2/blob/master/.github/preview-mobile.png" width="400px">
+  <img alt="Web" src="https://github.com/lmaoclost/NextLevelWeek-2/blob/master/.github/Home-mobile.png" width="250px">
+  <img alt="Web" src="https://github.com/lmaoclost/NextLevelWeek-2/blob/master/.github/preview-mobile.png" width="250px">
 </div>
 
 ## Getting Started
