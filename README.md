@@ -1,4 +1,4 @@
-# NextLevelWeek #02 WIP
+# NextLevelWeek #02
 
 <div align="center">
   <img alt="Proffy" src="https://github.com/lmaoclost/NextLevelWeek-2/blob/master/.github/logo.png" width="280"/>
@@ -25,6 +25,12 @@ Project for a [Course](https://nextlevelweek.com/episodios/omnistack/2/edicao/2)
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
   <img alt="Web" src="https://github.com/lmaoclost/NextLevelWeek-2/blob/master/.github/web-landing.png" width="400px">
   <img alt="Web" src="https://github.com/lmaoclost/NextLevelWeek-2/blob/master/.github/web-list.png" width="400px">
+</div>
+
+### Mobile
+<div style="display: flex; flex-direction: 'row'; align-items: 'center';">
+  <img alt="Web" src="https://github.com/lmaoclost/NextLevelWeek-2/blob/master/.github/Home-mobile.png" max-width="400px">
+  <img alt="Web" src="https://github.com/lmaoclost/NextLevelWeek-2/blob/master/.github/preview-mobile.png" max-width="400px">
 </div>
 
 ## Getting Started
@@ -56,7 +62,7 @@ $ yarn start
 The Backend will be running in the http://localhost:3333. To test the routes, i'm leaving this [Insomnia file](Insomnia_2020-08-06.json).
 
 ## Day 4: Mobile
-I'm using Expo, so make sure that you have it. Go to another terminal.
+I'm using Expo, so make sure that you have it. Go to [Api.ts](https://github.com/lmaoclost/NextLevelWeek-2/blob/master/mobile/src/services/api.ts) and change the baseURL to the server IP. If you're running the backend on localhost, the IP has the one in the expo page.
 ```
 $ cd /mobile
 $ yarn
