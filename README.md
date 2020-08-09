@@ -65,7 +65,7 @@ $ yarn start
 ```
 The Backend will be running in the http://localhost:3333. To test the routes, i'm leaving this [Insomnia file](Insomnia_2020-08-06.json).
 
-## Day 4: Mobile
+## Day 4, 5: Mobile
 I'm using Expo, so make sure that you have it. Go to [Api.ts](https://github.com/lmaoclost/NextLevelWeek-2/blob/master/mobile/src/services/api.ts) and change the baseURL to the server IP. If you're running the backend on localhost, the IP has the one in the expo page.
 ```
 $ cd /mobile
